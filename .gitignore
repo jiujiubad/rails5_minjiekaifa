@@ -1,2 +1,9 @@
-# Ignore Mac DS_Store files
+# Ignore bundler config.
+/.bundle
+
+# Ignore Mac Files
 .DS_Store
+
+# Ignore Editor/IDE
+/.vscode
+/.idea
